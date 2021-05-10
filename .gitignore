@@ -1,0 +1,9 @@
+node_modules/
+config/config.json
+newrelic_agent.log
+coverage/
+.nyc_output/
+.vscode
+locales/
+docs/apidoc/generated/*
+.wti
